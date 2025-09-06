@@ -1,2 +1,7 @@
 # suletta-mercury-figure-rise-standard-face
 Resources for Bandai Witch from Mercury FRS kit
+
+WARNING - THIS IS PROVIDED AS-IS
+
+LICENSED AS A GENERAL OPEN SOURCE PROJECT. NOT FOR COMMERCIAL USE. IF YOU MAKE IMPROVEMENTS TO THIS LET ME KNOW. OR MAKE A VIDEO AND TAG ME ON YOUTUBE `@nerdontheinternet`
+
